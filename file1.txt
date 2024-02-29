@@ -2,3 +2,7 @@ Hello World-1a
 Hello World-1b
 Hello World - 2nd commit
 Adding this line only in feature_1 branch
+
+merge branch to remote frpm local-1
+merge branch to remote frpm local-2
+merge branch to remote frpm local-3
